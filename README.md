@@ -1,1 +1,1 @@
-# arcolinux
+# dotfiles
